@@ -79,7 +79,7 @@ class main(QMainWindow):
 
 	def update(self):
 		now = datetime.now(timezone('US/Central'))
-		self.statusBar().showMessage(f'Past Sunrise Today {now > self.sunrise}')
+		#self.statusBar().showMessage(f'Past Sunrise Today {now > self.sunrise}')
 		#print(f'{now}')
 		#nowtz = self.central.localize(now)
 		#print(f'{nowtz.txinfo}')

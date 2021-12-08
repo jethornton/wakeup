@@ -1,1 +1,2 @@
 src/wakeup usr/bin
+*.desktop usr/share/applications
