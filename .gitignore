@@ -1,0 +1,8 @@
+*.dsc
+*.zx
+*.buildinfo
+*.changes
+wakeup/debian/.debhelper
+wakeup/debian/debhelper-build-stamp
+wakeup/debian/wakeup
+wakeup/debian/wakeup.substvars
