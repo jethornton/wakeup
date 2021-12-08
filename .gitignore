@@ -1,5 +1,5 @@
 *.dsc
-*.zx
+*.xz
 *.buildinfo
 *.changes
 wakeup/debian/.debhelper
